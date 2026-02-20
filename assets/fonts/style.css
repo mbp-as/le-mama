@@ -1,0 +1,30 @@
+@font-face {
+   font-family: 'e-UkraineHead-LOGO';
+   font-display: swap;
+   src: url('e-UkraineHead-LOGO/font.ttf');
+}
+@font-face {
+   font-family: 'e-UkraineHead-Regular';
+   font-display: swap;
+   src: url('e-UkraineHead-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'e-UkraineHead-UltraLight';
+   font-display: swap;
+   src: url('e-UkraineHead-UltraLight/font.ttf');
+}
+@font-face {
+   font-family: 'e-Ukraine-Regular';
+   font-display: swap;
+   src: url('e-Ukraine-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'e-Ukraine-Bold';
+   font-display: swap;
+   src: url('e-Ukraine-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'e-Ukraine-Thin';
+   font-display: swap;
+   src: url('e-Ukraine-Thin/font.ttf');
+}
